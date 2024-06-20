@@ -41,7 +41,7 @@ def PIDController(
     e_der = (e - prev_e)/delta_t
 
     # controller coefficients
-    Kp = 7
+    Kp = 5
     Ki = 0.2
     Kd = 0.1
 
@@ -49,5 +49,6 @@ def PIDController(
     omega = Kp*e + Ki*e_int + Kd*e_der
     
     #print(f"\n\nDelta time : {delta_t} \nE : {np.rad2deg(e)} \nE int : {e_int} \nPrev e : {prev_e} \nU : {u} \nTheta hat: {np.rad2deg(theta_hat)} \n")
+     
      
     return v_0, omega, e, e_int
