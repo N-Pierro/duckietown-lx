@@ -12,6 +12,8 @@ which describes the robot's position and orientation in space.
 
 This activity focuses on calibrating the motors and wheels of Duckiebots to ensure they move straight when commanded and reduce wheel slippage. The calibration involves determining two key parameters: gain and trim
 
+This task involves understanding and using wheel encoders in Duckiebots, which are sensors that convert the angular position or motion of a wheel's shaft into digital signals called "ticks." These ticks represent incremental changes in the wheel's angular position.
+
 
 # 💻 🚙 About this learning experience
 
