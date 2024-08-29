@@ -9,6 +9,10 @@
 This task involves understanding how to define and represent the state of a robot, with a particular focus on the concept of "pose," 
 
 which describes the robot's position and orientation in space.
+
+This activity focuses on calibrating the motors and wheels of Duckiebots to ensure they move straight when commanded and reduce wheel slippage. The calibration involves determining two key parameters: gain and trim
+
+
 # 💻 🚙 About this learning experience
 
 We include `activities` and one `exercise`.
