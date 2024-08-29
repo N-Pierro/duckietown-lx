@@ -12,7 +12,9 @@ This notebook gives a mathematical representation of how cameras, including thos
 
 ## 2. Homeographies:
 
-
+Homographies, are mathematical transformations used in computer vision to relate points between two planes, typically in the context of camera images. By taking into consideration
+an Duckietown's enviroment, assumed to be planar, this assumption helps reduce ambiguity in projection by using a homography. This notebook provide a useful tool for mapping between
+planes in image processing, particularly when the environment can safely be approximated as being planar.
 
 
 ## Grading challenge
