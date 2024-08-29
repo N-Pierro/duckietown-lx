@@ -2,18 +2,10 @@
 <img src="./assets/images/dtlogo.png" alt="Duckietown Logo" width="50%">
 </p>
 
-# **Learning Experience (LX): Visual Lane Servoing**
+# **Activity: Visual Lane Servoing**
 
 # About these activities
 
-In this learning experience, we will develop image processing techniques necessary for **visual lane servoing** which 
-allows controlling your Duckiebot to drive within lane markings.
-
-This learning experience is provided by the Duckietown team and can be run on Duckiebots. Visit us at the 
-[Duckietown Website](https://www.duckietown.com) for more learning materials, documentation, and demos.
-
-For guided setup instructions, lecture content, and more related to this LX, see the [Self Driving Cars with 
-Duckietown course on EdX](https://learning.edx.org/course/course-v1:ETHx+DT-01x+3T2022/home).
 
 
 ## Grading challenge
