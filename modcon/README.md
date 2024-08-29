@@ -16,6 +16,9 @@ This task involves understanding and using wheel encoders in Duckiebots, which a
 
 This text explains the concept of odometry in robotics, which involves measuring the robot's path and estimating its pose (position and orientation) over time. The process uses wheel encoder data and a "dead-reckoning" model, following an iterative procedure to update the robot's pose.
 
+The PID (Proportional-Integral-Derivative) controller, the controller is the decision-making part of the robot, determining the commands sent to the robot's actuators to achieve specific goals.
+For a Duckiebot, the controller's outputs are the linear and angular velocities, which dictate the robot's speed and steering.
+
 
 # 💻 🚙 About this learning experience
 
