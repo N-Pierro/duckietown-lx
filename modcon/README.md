@@ -14,6 +14,8 @@ This activity focuses on calibrating the motors and wheels of Duckiebots to ensu
 
 This task involves understanding and using wheel encoders in Duckiebots, which are sensors that convert the angular position or motion of a wheel's shaft into digital signals called "ticks." These ticks represent incremental changes in the wheel's angular position.
 
+This text explains the concept of odometry in robotics, which involves measuring the robot's path and estimating its pose (position and orientation) over time. The process uses wheel encoder data and a "dead-reckoning" model, following an iterative procedure to update the robot's pose.
+
 
 # 💻 🚙 About this learning experience
 
