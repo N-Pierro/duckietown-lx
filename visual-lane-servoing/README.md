@@ -6,6 +6,13 @@
 
 # About these activities
 
+## 1. Pinhole-Camera:
+
+This notebook gives a mathematical representation of how cameras, including those on the Duckiebot, capture images by projecting 3D points onto a 2D image plane.
+
+## 2. Homeographies:
+
+
 
 
 ## Grading challenge
