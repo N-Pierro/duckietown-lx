@@ -21,11 +21,8 @@ values to identify the duckies.
 2. The main observation in this activity is the difference in simulation and implementation in the duckiebot; in order to achieve this
 
    task i had to use an image of the real duckie enviroment, which required getting the real hsv values that identifies the duckie in the
-   duckiebot environment. Within the '/assets/samples/iotlab/' folder is a picture of the duckiebot environment used for this task 'real001.png' 
+   duckiebot environment. Within the `/assets/samples/iotlab/` folder is a picture of the duckiebot environment used for this task `real001.png` 
 
-Your submissions will be sent to the [`lx22-BV1`][challenge] challenge.
-
-[challenge]: https://challenges.duckietown.org/v4/humans/challenges/lx22-BV1
 
 
 # Instructions
